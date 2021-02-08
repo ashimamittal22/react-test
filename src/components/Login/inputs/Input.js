@@ -1,5 +1,4 @@
 import React from 'react';
-import './Input.css';
 import TextField from 'material-ui/TextField';
 
 export default function Input(props){
